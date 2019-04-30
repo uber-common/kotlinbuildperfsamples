@@ -3,7 +3,7 @@ Kotlin Build Performance Samples
 
 This is sample code for the measurements in our "Measuring Kotlin Build Performance" blog post. Please read the post for full context.
 
-TODO link
+https://eng.uber.com/measuring-kotlin-build-performance/
 
 ## Tech Stack
 
@@ -35,7 +35,7 @@ Example models for each matrix type + build.gradle file can be found in the `sam
 
 ### Core thrift elements
 
-#### Struct: 
+#### Struct
 
 **Java**
 * Standard POJO w/ toString/hashcode/equals and memoized values
